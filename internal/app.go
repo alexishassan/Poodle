@@ -9,3 +9,4 @@ func Run() error {
 // clarify the control flow
 // drop an unused branch
 // match the style used in the rest of the module
+// match the style used in the rest of the module
